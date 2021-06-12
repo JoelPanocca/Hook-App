@@ -1,0 +1,15 @@
+body {
+    padding: 50px;
+}
+
+.form-group{
+    padding-bottom: 8px;
+}
+
+.padbot{
+    padding-bottom: 8px;
+}
+
+.right{
+    text-align: right !important;
+}
